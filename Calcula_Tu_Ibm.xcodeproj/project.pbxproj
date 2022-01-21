@@ -11,6 +11,7 @@
 		2EB96514279A42D000D7EDF6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EB96513279A42D000D7EDF6 /* ContentView.swift */; };
 		2EB96516279A42D200D7EDF6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2EB96515279A42D200D7EDF6 /* Assets.xcassets */; };
 		2EB96519279A42D200D7EDF6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2EB96518279A42D200D7EDF6 /* Preview Assets.xcassets */; };
+		2EB96522279A531D00D7EDF6 /* CalculadoVista.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EB96521279A531D00D7EDF6 /* CalculadoVista.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		2EB96513279A42D000D7EDF6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		2EB96515279A42D200D7EDF6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2EB96518279A42D200D7EDF6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		2EB96521279A531D00D7EDF6 /* CalculadoVista.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculadoVista.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +53,7 @@
 		2EB96510279A42D000D7EDF6 /* Calcula_Tu_Ibm */ = {
 			isa = PBXGroup;
 			children = (
+				2EB96521279A531D00D7EDF6 /* CalculadoVista.swift */,
 				2EB96511279A42D000D7EDF6 /* Calcula_Tu_IbmApp.swift */,
 				2EB96513279A42D000D7EDF6 /* ContentView.swift */,
 				2EB96515279A42D200D7EDF6 /* Assets.xcassets */,
@@ -139,6 +142,7 @@
 			files = (
 				2EB96514279A42D000D7EDF6 /* ContentView.swift in Sources */,
 				2EB96512279A42D000D7EDF6 /* Calcula_Tu_IbmApp.swift in Sources */,
+				2EB96522279A531D00D7EDF6 /* CalculadoVista.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
